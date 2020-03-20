@@ -1,0 +1,13 @@
+{
+  "bots": [
+    {
+      "name": "test-app",
+      "webhooks": [
+        {
+          "name": "bot-sandbox-test",
+          "path": "services/T02BCPD0X/B010HHSJEKG/TeLMvAuLfT0oLxRpVTPTjK9f"
+        }
+      ]
+    }
+  ]
+}

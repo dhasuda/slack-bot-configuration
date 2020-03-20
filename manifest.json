@@ -1,0 +1,16 @@
+{
+  "name": "test-app-slack-configuration",
+  "vendor": "vtex",
+  "version": "0.0.0",
+  "title": "Service Example",
+  "description": "Reference app for VTEX IO Services",
+  "categories": [],
+  "dependencies": {},
+  "builders": {
+    "vtex.slack-notification": "0.x"
+  },
+  "scripts": {},
+  "credentialType": "absolute",
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
